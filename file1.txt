@@ -1,2 +1,3 @@
 this is a new file 
-iam appending the lines from mybranch branch 
+iam appending the lines from mybranch branch
+iam trying to merge it to master 
